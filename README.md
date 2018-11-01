@@ -1,4 +1,4 @@
-#Gap Statistic Method for K-Means Clustering
+# Gap Statistic Method for K-Means Clustering
 
 This is a script for running the gap statistic method outlined in [Tibishirani, et al. (2001)](https://statweb.stanford.edu/~gwalther/gap).
 
