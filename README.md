@@ -1,6 +1,6 @@
 # Gap Statistic Method for K-Means Clustering
 
-This is a script for running the gap statistic method outlined in [Tibishirani, et al. (2001)](https://statweb.stanford.edu/~gwalther/gap).
+This is a script for running the gap statistic method outlined in [Tibshirani, et al. (2001)](https://statweb.stanford.edu/~gwalther/gap).
 
 In short, when we use the K-means method for clustering, we often want to know how may clusters we need, i.e. what's an optimal value for k.
 
